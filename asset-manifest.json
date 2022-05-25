@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mehedy360/ReactHarry/static/css/main.0272a195.css",
-    "main.js": "/Mehedy360/ReactHarry/static/js/main.0a075689.js",
-    "static/js/787.719ec76d.chunk.js": "/Mehedy360/ReactHarry/static/js/787.719ec76d.chunk.js",
-    "index.html": "/Mehedy360/ReactHarry/index.html",
-    "main.0272a195.css.map": "/Mehedy360/ReactHarry/static/css/main.0272a195.css.map",
-    "main.0a075689.js.map": "/Mehedy360/ReactHarry/static/js/main.0a075689.js.map",
-    "787.719ec76d.chunk.js.map": "/Mehedy360/ReactHarry/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/Mehedy360/ReactHarry/textutils/static/css/main.0272a195.css",
+    "main.js": "/Mehedy360/ReactHarry/textutils/static/js/main.16d9d04c.js",
+    "static/js/787.719ec76d.chunk.js": "/Mehedy360/ReactHarry/textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Mehedy360/ReactHarry/textutils/index.html",
+    "main.0272a195.css.map": "/Mehedy360/ReactHarry/textutils/static/css/main.0272a195.css.map",
+    "main.16d9d04c.js.map": "/Mehedy360/ReactHarry/textutils/static/js/main.16d9d04c.js.map",
+    "787.719ec76d.chunk.js.map": "/Mehedy360/ReactHarry/textutils/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0272a195.css",
-    "static/js/main.0a075689.js"
+    "static/js/main.16d9d04c.js"
   ]
 }
