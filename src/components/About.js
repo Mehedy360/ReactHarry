@@ -5,6 +5,7 @@ export default function About() {
     color: "black",
     backgroundColor: "white",
   });
+
   const [btntext, setBtntext] = useState("initialState");
 
   let toggleStyle = () => {
